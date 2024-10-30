@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+</head>
+<body>
+    <h1><mark>GIỚI THIỆU BẢN THÂN</mark></h1>
+    <img src="https://i.imgur.com/HxmrydQ.jpg" height="120" style="float: left; margin-right: 20px;">
+    <p><b>Tên:</b> Nguyễn Hữu Trường An</p>
+    <p><b>Ngày sinh:</b> 30/12/2006</p>
+    <p><b>Quê quán:</b> Nghệ An</p>
+    <p><b>Sở thích:</b> đọc sách, xem phim,...</p>
+    <h3>Liên hệ</h3>
+    <p>Facebook: <i><a href="https://fb.me/nhta.user.dev" target="_blank">@nhta.user.dev</a></i> | Zalo: <i><a href="https://zalo.me/+84326487469" target="_blank">@nhta3012</a></i></p>
+    <audio src="https://files.catbox.moe/yijjk7.mp3" controls autoplay loop></audio>
+</body>
+</html>
